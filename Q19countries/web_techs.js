@@ -1,0 +1,1 @@
+export const popularWebTech = ["react",'svelte','angular','express js']
